@@ -1,5 +1,5 @@
 const { ValidateID, isValidDate } = require("../src/idValidator");
-
+//specs
 describe('ValidateID', function() {
 	it('should return true if the ID number is valid', function() {
 		expect(ValidateID('2001014800086')).toBe(true);
