@@ -1,0 +1,22 @@
+{
+  "name": "validatesouthafricanid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleem99/ValidateSouthAfricanID.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaleem99/ValidateSouthAfricanID/issues"
+  },
+  "homepage": "https://github.com/kaleem99/ValidateSouthAfricanID#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  }
+}
